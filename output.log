@@ -1,0 +1,31 @@
+19:13:32.127 [main] INFO  testTasks.loops.Task3 - Enter the Fibonacci index
+19:13:34.280 [main] INFO  testTasks.loops.Task3 - The Fibonacci number with the index 5 is 5
+19:14:13.258 [main] INFO  testTasks.conditions.Task4 - Enter the number
+19:14:15.397 [main] INFO  testTasks.conditions.Task4 - Enter the number
+19:14:17.227 [main] INFO  testTasks.conditions.Task4 - Enter the number
+19:14:18.703 [main] INFO  testTasks.conditions.Task4 - Enter the number
+19:14:20.452 [main] INFO  testTasks.conditions.Task4 - The total amount of positive numbers is 2
+19:14:20.453 [main] INFO  testTasks.conditions.Task4 - The total amount of negative numbers is 1
+19:14:20.453 [main] INFO  testTasks.conditions.Task4 - The total amount of zeros is 1
+19:14:28.786 [main] INFO  testTasks.loops.Task1 - 4 x 1 = 4
+19:14:28.789 [main] INFO  testTasks.loops.Task1 - 4 x 2 = 8
+19:14:28.789 [main] INFO  testTasks.loops.Task1 - 4 x 3 = 12
+19:14:28.789 [main] INFO  testTasks.loops.Task1 - 4 x 4 = 16
+19:14:28.789 [main] INFO  testTasks.loops.Task1 - 4 x 5 = 20
+19:14:28.789 [main] INFO  testTasks.loops.Task1 - 4 x 6 = 24
+19:14:28.790 [main] INFO  testTasks.loops.Task1 - 4 x 7 = 28
+19:14:28.790 [main] INFO  testTasks.loops.Task1 - 4 x 8 = 32
+19:14:28.790 [main] INFO  testTasks.loops.Task1 - 4 x 9 = 36
+19:14:28.790 [main] INFO  testTasks.loops.Task1 - 4 x 10 = 40
+19:16:27.334 [main] INFO  testTasks.loops.Task2 - Enter the number
+19:16:30.936 [main] INFO  testTasks.loops.Task2 - 0
+19:16:30.936 [main] INFO  testTasks.loops.Task2 - 2
+19:16:30.937 [main] INFO  testTasks.loops.Task2 - 4
+19:16:46.051 [main] INFO  testTasks.loops.Task3 - Enter the Fibonacci index
+19:16:48.167 [main] INFO  testTasks.loops.Task3 - The Fibonacci number with the index 4 is 3
+19:16:57.615 [main] INFO  testTasks.loops.Task3 - Enter the Fibonacci index
+19:16:59.651 [main] INFO  testTasks.loops.Task3 - The Fibonacci number with the index 8 is 21
+19:17:05.601 [main] INFO  testTasks.loops.Task3 - Enter the Fibonacci index
+19:17:07.348 [main] INFO  testTasks.loops.Task3 - The Fibonacci number with the index 9 is 34
+19:17:13.148 [main] INFO  testTasks.loops.Task3 - Enter the Fibonacci index
+19:17:15.077 [main] INFO  testTasks.loops.Task3 - The Fibonacci number with the index 10 is 55
